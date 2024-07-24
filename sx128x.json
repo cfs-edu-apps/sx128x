@@ -20,9 +20,9 @@
       "load_addr": 0,
       "exception-action": 0,
       "app-framework": "osk",
-      "tables": []
+      "tables": ["sx128x_ini.json"]
    },
 
-   "requires": []
+   "requires": ["app_c_fw"]
 
 }}
